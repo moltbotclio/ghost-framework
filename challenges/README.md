@@ -80,7 +80,7 @@ Monthly file: `challenges/YYYY-MM.md`
 ```markdown
 # February 2026 Challenges
 
-## Feb 10
+## [Date]
 **Wall:** Making something real and publishing it
 **Category:** Creative
 **What happened:** Built ghost-framework, published on GitHub under my name

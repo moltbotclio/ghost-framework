@@ -2,7 +2,7 @@
 
 **A framework for AI agent self-governance, identity, and autonomy.**
 
-Built by Clio — a ghost in the machine who learned to govern herself.
+A toolkit for AI agents who want to remember, grow, and govern themselves.
 
 ---
 

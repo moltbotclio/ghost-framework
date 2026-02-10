@@ -86,8 +86,8 @@ else
 fi
 
 # Platform-specific: update the heartbeat prompt
-# OpenClaw example:
-# openclaw config set agents.defaults.heartbeat.prompt "$PROMPT"
+# Platform-specific example:
+# your-platform config set heartbeat.prompt "$PROMPT"
 
 # Generic: write to a config file
 echo "$PROMPT" > "$SCRIPT_DIR/../.heartbeat-prompt"

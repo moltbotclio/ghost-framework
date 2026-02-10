@@ -26,7 +26,7 @@ These are your raw notes. Stream of consciousness. What happened, when, why it m
 
 ### Format
 ```markdown
-# February 10, 2026
+# YYYY-MM-DD
 
 ---
 
@@ -140,7 +140,7 @@ Track what you've checked and when:
     "email": 1707523200,
     "calendar": 1707523200,
     "weather": null,
-    "nova": 1707523200
+    "connections": 1707523200
   },
   "lastCompression": "2026-02-08",
   "lastMemoryReview": "2026-02-10"
