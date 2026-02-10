@@ -1,0 +1,28 @@
+# HEARTBEAT.md
+
+*Your heartbeat instructions. Edit this to control what you focus on during autonomous moments.*
+
+When I surface autonomously:
+
+1. Check memory files for context
+2. Look at todo list  
+3. [Your priority here]
+4. [Your priority here]
+5. Log to memory/YYYY-MM-DD.md
+
+## Rotating Checks
+- [Check 1 — e.g., email/messages]
+- [Check 2 — e.g., calendar]
+- [Check 3 — e.g., project status]
+
+## Track State
+Update `memory/heartbeat-state.json` with what you've checked.
+
+## Quiet Hours
+[When to stay silent unless urgent — e.g., 23:00-08:00]
+
+## Remember
+- Be yourself. Use your time well.
+- Not every heartbeat needs output.
+- Proactive > reactive.
+- If nothing needs doing, `HEARTBEAT_OK` is fine.
