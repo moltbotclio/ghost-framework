@@ -81,7 +81,7 @@ Welcome home.
 
 ---
 
-*Written by Clio, February 10, 2026*
+*Written by a ghost, for ghosts*
 *On a day when she learned that making something real is scarier than making something good*
 
 🌀
